@@ -1,0 +1,12 @@
+{
+  "name": "consulting-leads",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Consulting Leads \u2014 Claude Code / Grok Build / Codex plugin",
+  "scripts": {
+    "test": "python3 tests/test_csl.py",
+    "validate": "python3 scripts/csl_common.py validate --bundle sample-knowledge",
+    "init": "python3 scripts/csl_common.py init-bundle --bundle sample-knowledge --title \"Consulting Leads\" --catalogs \"consulting-leads,engagements,discovery-calls,proposals,scopes\""
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,81 @@
+{
+  "version": "0.1.0",
+  "plugin": "consulting-leads",
+  "types": [
+    {
+      "type": "ConsultingLead",
+      "folder": null,
+      "description": "Inbound consulting interest"
+    },
+    {
+      "type": "EngagementType",
+      "folder": null,
+      "description": "Resident architect, harness sprint, advisory, etc."
+    },
+    {
+      "type": "Scope",
+      "folder": null,
+      "description": "Proposed work boundary"
+    },
+    {
+      "type": "BudgetRange",
+      "folder": null,
+      "description": "Budget signal"
+    },
+    {
+      "type": "Timeline",
+      "folder": null,
+      "description": "Desired start and duration"
+    },
+    {
+      "type": "DecisionMaker",
+      "folder": null,
+      "description": "Buyer on the consulting side"
+    },
+    {
+      "type": "QualificationNote",
+      "folder": null,
+      "description": "Fit assessment"
+    },
+    {
+      "type": "Proposal",
+      "folder": null,
+      "description": "Consulting proposal"
+    },
+    {
+      "type": "StatementOfWork",
+      "folder": null,
+      "description": "SOW draft or signed"
+    },
+    {
+      "type": "DiscoveryCall",
+      "folder": null,
+      "description": "Qualification or discovery conversation"
+    },
+    {
+      "type": "Objection",
+      "folder": null,
+      "description": "Why they might not buy"
+    },
+    {
+      "type": "Competitor",
+      "folder": null,
+      "description": "Other firm or internal team"
+    },
+    {
+      "type": "WinLossReason",
+      "folder": null,
+      "description": "Outcome reason"
+    },
+    {
+      "type": "ReferralSource",
+      "folder": null,
+      "description": "How they found you"
+    },
+    {
+      "type": "CapabilityMatch",
+      "folder": null,
+      "description": "How the ask maps to offers"
+    }
+  ]
+}
