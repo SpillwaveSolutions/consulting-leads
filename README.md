@@ -78,7 +78,7 @@ python3 scripts/csl_common.py write \
   --type ConsultingLead \
   --folder consulting-leads \
   --title "Example" \
-  --author "Grok Bot: Consulting Leads"
+  --author "${SECOND_BRAIN_IDENTITY:?claim an identity first: brain.py whoami --claim}"
 ```
 
 Never invent `rel` values. Never write types owned by another plugin.
