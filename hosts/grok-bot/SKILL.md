@@ -5,7 +5,7 @@ description: Bind a Grok Bot agent to the consulting-leads ContentPack. Isolatio
 
 # Grok Bot / Consulting
 
-Follow `docs/GROK_BOT.md`.
+Read `docs/ONBOARDING.md` first, then follow `docs/GROK_BOT.md`.
 
 1. Identity: `grok-bot/consulting-leads`
 2. Open an isolation session before writes (`scripts/brain_session.py open`) unless the human already pointed `SECOND_BRAIN_ROOT` at a session worktree.

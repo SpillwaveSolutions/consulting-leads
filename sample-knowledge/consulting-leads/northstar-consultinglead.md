@@ -4,10 +4,15 @@ title: Northstar ConsultingLead
 status: active
 timestamp: 2026-08-14T00:00:00Z
 author: Grok Bot: Consulting Leads
-tags:
-  - sample
-  - northstar
-links: []
+links:
+  - target: /engagements/northstar-engagementtype.md
+    rel: typed_as
+  - target: /discovery-calls/northstar-scope.md
+    rel: related_to
+  - target: /discovery-calls/northstar-discovery.md
+    rel: discovered_in
+  - target: /qualification-notes/northstar-qual.md
+    rel: qualified_by
 ---
 
 # Northstar ConsultingLead

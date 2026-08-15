@@ -1,80 +1,80 @@
 {
-  "version": "0.1.0",
+  "version": "0.3.0",
   "plugin": "consulting-leads",
   "types": [
     {
       "type": "ConsultingLead",
-      "folder": null,
+      "folder": "consulting-leads",
       "description": "Inbound consulting interest"
     },
     {
       "type": "EngagementType",
-      "folder": null,
+      "folder": "engagements",
       "description": "Resident architect, harness sprint, advisory, etc."
     },
     {
       "type": "Scope",
-      "folder": null,
+      "folder": "discovery-calls",
       "description": "Proposed work boundary"
     },
     {
       "type": "BudgetRange",
-      "folder": null,
+      "folder": "budget-ranges",
       "description": "Budget signal"
     },
     {
       "type": "Timeline",
-      "folder": null,
+      "folder": "timelines",
       "description": "Desired start and duration"
     },
     {
       "type": "DecisionMaker",
-      "folder": null,
+      "folder": "decision-makers",
       "description": "Buyer on the consulting side"
     },
     {
       "type": "QualificationNote",
-      "folder": null,
+      "folder": "qualification-notes",
       "description": "Fit assessment"
     },
     {
       "type": "Proposal",
-      "folder": null,
+      "folder": "proposals",
       "description": "Consulting proposal"
     },
     {
       "type": "StatementOfWork",
-      "folder": null,
+      "folder": "statement-of-works",
       "description": "SOW draft or signed"
     },
     {
       "type": "DiscoveryCall",
-      "folder": null,
+      "folder": "discovery-calls",
       "description": "Qualification or discovery conversation"
     },
     {
       "type": "Objection",
-      "folder": null,
+      "folder": "objections",
       "description": "Why they might not buy"
     },
     {
       "type": "Competitor",
-      "folder": null,
+      "folder": "competitors",
       "description": "Other firm or internal team"
     },
     {
       "type": "WinLossReason",
-      "folder": null,
+      "folder": "win-loss-reasons",
       "description": "Outcome reason"
     },
     {
       "type": "ReferralSource",
-      "folder": null,
+      "folder": "referral-sources",
       "description": "How they found you"
     },
     {
       "type": "CapabilityMatch",
-      "folder": null,
+      "folder": "capability-matchs",
       "description": "How the ask maps to offers"
     }
   ]
