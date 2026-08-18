@@ -1,11 +1,9 @@
 {
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "consulting-leads",
   "version": "0.3.2",
   "description": "Inbound consulting-lead ContentPack: engagement types, qualification, discovery, scopes.",
   "author": {
-    "name": "Rick Hightower",
-    "url": "https://github.com/RichardHightower"
+    "name": "Rick Hightower"
   },
   "homepage": "https://github.com/SpillwaveSolutions/consulting-leads",
   "repository": "https://github.com/SpillwaveSolutions/consulting-leads",
@@ -16,5 +14,8 @@
     "second-brain",
     "agent-plugins",
     "cursor"
-  ]
+  ],
+  "skills": "skills/",
+  "rules": ".cursor/rules/",
+  "commands": "commands/"
 }
