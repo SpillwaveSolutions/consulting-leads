@@ -1,6 +1,6 @@
 {
   "name": "consulting-leads",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Inbound consulting-lead ContentPack: engagement types, qualification, discovery, scopes.",
   "author": {
     "name": "Rick Hightower"
@@ -13,7 +13,9 @@
     "leads",
     "second-brain",
     "agent-plugins",
-    "cursor"
+    "cursor",
+    "worklog",
+    "wiki-ticket-sdd"
   ],
   "skills": "skills/",
   "rules": ".cursor/rules/",
